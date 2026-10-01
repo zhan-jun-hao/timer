@@ -1,0 +1,73 @@
+# =====================
+# Node.js
+# =====================
+
+node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# =====================
+# Electron build
+# =====================
+
+dist/
+release/
+out/
+
+
+# electron-builder cache
+.builder-cache/
+
+
+# =====================
+# Logs
+# =====================
+
+logs/
+*.log
+
+
+# =====================
+# Environment
+# =====================
+
+.env
+.env.*
+
+
+# =====================
+# IDE
+# =====================
+
+.idea/
+.vscode/
+
+
+# =====================
+# OS
+# =====================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# =====================
+# Temporary files
+# =====================
+
+*.tmp
+*.temp
+
+
+# =====================
+# Test coverage
+# =====================
+
+coverage/
