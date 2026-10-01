@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="icon" src="https://github.com/user-attachments/assets/c541cb75-0c8d-401f-9d64-8fb56acfa149" />
 # timer
 
 介绍: html + css + 纯生js + Electron 的桌面计时器。
